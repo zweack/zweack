@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Deep Learning & Neural Networks
 - 👯 I’m looking to collaborate on ML-Ops projects 
 - 💬 Ask me about Spark, Hadoop, SQL, Hive, GCP
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zweack.zweack)
+
 <!--
 - 📫 How to reach me:
 - 😄 Pronouns: ...
