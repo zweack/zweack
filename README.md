@@ -1,9 +1,8 @@
 ### Hi there 👋 I am Jeet Jain, you can call me JJ.
 
-- 🔭 I’m currently working on a project for cross platform cricket score notifications.
-- 🌱 I’m currently learning Deep Learning & Neural Networks
-- 👯 I’m looking to collaborate on ML-Ops projects 
-- 💬 Ask me about Spark, Hadoop, SQL, Hive, GCP
+- 🔭 I’m currently working on a [Cortx Monitor](https://github.com/Seagate/cortx-monitor).
+- 🌱 I’m currently learning about [Cortx Project](https://github.com/Seagate/cortx).
+- 💬 Ask me about Docker, Kubernetes, Linux Systems, Spark, Hadoop, SQL, Hive.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zweack.zweack)
 
