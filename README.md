@@ -5,5 +5,4 @@
 - 💬 Ask me about C++, Python, Docker, Kubernetes, Linux, Distributed Systems.
 - 👻 Planning to learn [Rust](https://www.rust-lang.org/) soon :) 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zweack.zweack)
-
+Checkout my contributrion at Seagate (here) [https://github.com/jjxsg]
